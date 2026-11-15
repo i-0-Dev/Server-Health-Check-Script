@@ -10,7 +10,7 @@ A cross-platform Linux bash script (`server_hardening.sh`) built by upgrading an
 ## Improvements Made to Script
 
 * **Cross_Platform Support:** Updated commands to run cleanly across Ubuntu and Centos Distros
-* **Comments:** Comments to assit in understanding the meaning and use of lines in the script
+* **Comments:** Comments to assist in understanding the meaning and use of lines in the script
 * **Automated Reports:** Added Structure to a messy report with script saves clean logs to report that is timestamped and saved into `ACME_Hardening/server_health.log` file.
 * **Adjustable Thresholds:** Created Global Variables like `CPU_THRESHOLD`, `DISK_THRESHOLD`, and `SSH_PORT` at the top of the script for quick and easy adjustments.
 * **Security Hardening Checks:** Added sections based on Linux Security hardening Checklist.
