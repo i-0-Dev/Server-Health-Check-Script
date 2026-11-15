@@ -33,3 +33,10 @@ A cross-platform Linux bash script (`server_hardening.sh`) built by upgrading an
    ```bash
    cat ACME_Hardening/server_health.log
    ```
+## Example Output
+
+### Ubuntu Test Run
+![Ubuntu Server Health Output](Ubuntu server_health.png)
+
+### CentOS Test Run
+![CentOS Server Health Output](Centos Server_health.png)
