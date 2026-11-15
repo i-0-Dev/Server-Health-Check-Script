@@ -36,7 +36,7 @@ A cross-platform Linux bash script (`server_hardening.sh`) built by upgrading an
 ## Example Output
 
 ### Ubuntu Test Run
-![Ubuntu Server Health Output](Ubuntu server_health.png)
+![Ubuntu Server Health Output](Ubuntu_server_health.png)
 
 ### CentOS Test Run
-![CentOS Server Health Output](Centos Server_health.png)
+![CentOS Server Health Output](Centos_Server_health.png)
